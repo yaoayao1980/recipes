@@ -8,3 +8,8 @@ Ingredients
 * green peppers
 * onion
 * mushrooms
+
+Directions
+
+1. Spread pizza sauce evenly over the crust.
+2. Add cheese.
